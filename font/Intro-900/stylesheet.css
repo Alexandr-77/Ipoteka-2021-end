@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Intro Demo Black CAPS';
+    src: url('IntroDemo-BlackCAPS.eot');
+    src: url('IntroDemo-BlackCAPS.eot?#iefix') format('embedded-opentype'),
+        url('IntroDemo-BlackCAPS.woff2') format('woff2'),
+        url('IntroDemo-BlackCAPS.woff') format('woff'),
+        url('IntroDemo-BlackCAPS.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
